@@ -4,6 +4,6 @@
 My name's Emanuel Silva and I'm a Computer Engineering at University of Brasília!
 
 ### About me
-- 🔭 I’m currently working on websites with FullStack ReactJS + NodeJS and apps with ReactNative.
+- 🔭 I’m currently working on web applications with FullStack ReactJS + NodeJS and mobile applications with ReactNative.
 - 🌱 I’m currently learning NextJS, Typescript and Game Development.
 - 💬 Feel free to ask me anything!
