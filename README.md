@@ -4,6 +4,6 @@
 My name's Emanuel Silva and I'm a Computer Engineering Student at University of Brasília!
 
 ### About me
-- 🔭 I’m currently working on web applications with ReactJS + NodeJS and mobile applications with ReactNative.
-- 🌱 I’m currently learning NextJS, Typescript and Game Development.
+- 🔭 I’m currently working on web applications with React + RoR.
+- 🌱 I’m currently learning NextJS and NodeJS.
 - 💬 Feel free to ask me anything!
